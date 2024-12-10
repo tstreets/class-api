@@ -11,11 +11,23 @@ const data = [
   },
   {
     name: "Cheap Trick",
-    url: "https://www.rush.com/",
+    url: "https://www.cheaptrick.com/",
     cover_image: `${process.env.BASE_URL}/resources/underrated-music/album-covers/CT.jpg`,
     songs: [
       `${process.env.BASE_URL}/resources/underrated-music/songs/Cheap Trick - Magical Mystery Tour.mp3`,
       `${process.env.BASE_URL}/resources/underrated-music/songs/Cheap Trick - Surrender (Official Audio).mp3`,
+    ],
+  },
+
+  {
+    name: "Pennywise",
+    url: "https://pennywisdom.com/",
+    cover_image: `${process.env.BASE_URL}/resources/underrated-music/album-covers/P.jpg`,
+    songs: [
+      `${process.env.BASE_URL}/resources/underrated-music/songs/Pennywise - Bro Hymn (Full Album Stream).mp3`,
+      `${process.env.BASE_URL}/resources/underrated-music/songs/Pennywise - Same Old Story.mp3`,
+      `${process.env.BASE_URL}/resources/underrated-music/songs/PennyWise-Fuck Authority.mp3`,
+      // `${process.env.BASE_URL}/resources/underrated-music/songs/replace`,
     ],
   },
 ];
