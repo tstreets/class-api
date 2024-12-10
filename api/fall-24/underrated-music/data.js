@@ -8,6 +8,7 @@ const data = [
       `${process.env.BASE_URL}/resources/underrated-music/songs/Rush - The Spirit Of Radio.mp3`,
       `${process.env.BASE_URL}/resources/underrated-music/songs/Rush - The Trees.mp3`,
     ],
+    songTitles: ["A Passage To Bangkok", "The Spirit Of Radio", "The Trees"],
   },
   {
     name: "Cheap Trick",
@@ -16,7 +17,9 @@ const data = [
     songs: [
       `${process.env.BASE_URL}/resources/underrated-music/songs/Cheap Trick - Magical Mystery Tour.mp3`,
       `${process.env.BASE_URL}/resources/underrated-music/songs/Cheap Trick - Surrender (Official Audio).mp3`,
+      `${process.env.BASE_URL}/resources/underrated-music/songs/Dream Police.mp3`,
     ],
+    songTitles: ["Magical Mystery Tour", "Surrender", "Dream Police"],
   },
   {
     name: "Pennywise",
@@ -27,6 +30,7 @@ const data = [
       `${process.env.BASE_URL}/resources/underrated-music/songs/Pennywise - Same Old Story.mp3`,
       `${process.env.BASE_URL}/resources/underrated-music/songs/PennyWise-Fuck Authority.mp3`,
     ],
+    songTitles: ["Bro Hymn", "Same Old Story", "Fuck Authority"],
   },
   {
     name: "Queens of the Stone Age",
@@ -38,6 +42,7 @@ const data = [
       `${process.env.BASE_URL}/resources/underrated-music/songs/Queens of the Stone Age - My God Is The Sun.mp3`,
       // `${process.env.BASE_URL}/resources/underrated-music/songs/replace`,
     ],
+    songTitles: ["I Sat By The Ocean", "Little Sister", "My God Is The Sun"],
   },
   {
     name: "Three Days Grace",
@@ -48,6 +53,7 @@ const data = [
       `${process.env.BASE_URL}/resources/underrated-music/songs/Three Days Grace - Pain.mp3`,
       `${process.env.BASE_URL}/resources/underrated-music/songs/On My Own.mp3`,
     ],
+    songTitles: ["Animal I Have Become", "Pain", "On My Own"],
   },
   {
     name: "Pixies",
@@ -58,6 +64,7 @@ const data = [
       `${process.env.BASE_URL}/resources/underrated-music/songs/Where Is My Mind_ (2007 Remaster).mp3`,
       `${process.env.BASE_URL}/resources/underrated-music/songs/The Holiday Song.mp3`,
     ],
+    songTitles: ["Gigantic", "Where Is My Mind", "The Holiday Song"],
   },
 ];
 
