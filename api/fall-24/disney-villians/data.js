@@ -1,7 +1,7 @@
 const data = [
   {
     name: "The Evil Queen",
-    image: `${process.env.BASE_URL}/resources/Profile_-_The_Evil_Queen.webp`,
+    image: `${process.env.BASE_URL}/resources/disney-villians/Profile_-_The_Evil_Queen.webp`,
     films: [
       "Snow White and the Seven Dwarfs",
       "Who Framed Roger Rabbit (cameo)",
