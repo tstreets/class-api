@@ -1,8 +1,7 @@
 const data = [
   {
     name: "The Evil Queen",
-    image:
-      "https://static.wikia.nocookie.net/disney/images/8/89/Profile_-_The_Evil_Queen.jpeg/revision/latest?cb=20190312020700",
+    image: `${process.env.BASE_URL}/Profile_-_The_Evil_Queen.webp`,
     films: [
       "Snow White and the Seven Dwarfs",
       "Who Framed Roger Rabbit (cameo)",
