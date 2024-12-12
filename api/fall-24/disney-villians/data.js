@@ -16,8 +16,7 @@ const data = [
   },
   {
     name: "Chernabog",
-    image:
-      "https://static.wikia.nocookie.net/disney/images/6/61/Profile_-_Chernabog.jpeg/revision/latest?cb=20190312041146",
+    image: `${process.env.BASE_URL}/resources/disney-villians/Profile_-_Chernabog.webp`,
     films: [
       "Fantasia",
       "The Reluctant Dragon (cameo)",
@@ -30,8 +29,7 @@ const data = [
   },
   {
     name: "Queen of Hearts",
-    image:
-      "https://static.wikia.nocookie.net/disney/images/6/61/Profile_-_Queen_of_Hearts.jpeg/revision/latest?cb=20190312053228",
+    image: `${process.env.BASE_URL}/resources/disney-villians/Profile_-_Queen_of_Hearts.webp`,
     films: [
       "Alice in Wonderland",
       "Mickey's House of Villains",
@@ -42,8 +40,7 @@ const data = [
   },
   {
     name: "Captain Hook",
-    image:
-      "https://static.wikia.nocookie.net/disney/images/0/0b/Profile_-_Captain_Hook.jpeg/revision/latest/scale-to-width-down/1000?cb=20190312022618",
+    image: `${process.env.BASE_URL}/resources/disney-villians/Profile_-_Captain_Hook.webp`,
     films: [
       "Peter Pan",
       "Return to Never Land",
@@ -55,8 +52,7 @@ const data = [
   },
   {
     name: "Maleficent",
-    image:
-      "https://static.wikia.nocookie.net/disney/images/0/05/Profile_-_Maleficent.jpeg/revision/latest?cb=20190312020410",
+    image: `${process.env.BASE_URL}/resources/disney-villians/Profile_-_Maleficent.webp`,
     films: [
       "Sleeping Beauty",
       "Mickey's Magical Christmas: Snowed in at the House of Mouse",
@@ -68,8 +64,7 @@ const data = [
   },
   {
     name: "Cruella De Vil",
-    image:
-      "https://static.wikia.nocookie.net/disney/images/9/92/Profile_-_Cruella.png/revision/latest?cb=20190312122644",
+    image: `${process.env.BASE_URL}/resources/disney-villians/Profile_-_Cruella.webp`,
     films: [
       "One Hundred and One Dalmatians",
       "Mickey's House of Villains",
@@ -80,8 +75,7 @@ const data = [
   },
   {
     name: "Ursula",
-    image:
-      "https://static.wikia.nocookie.net/disney/images/7/72/Profile_-_Ursula.jpeg/revision/latest/scale-to-width-down/1000?cb=20201204230949",
+    image: `${process.env.BASE_URL}/resources/disney-villians/Profile_-_Ursula.webp`,
     films: [
       "The Little Mermaid",
       "Mickey's Magical Christmas: Snowed in at the House of Mouse",
@@ -92,8 +86,7 @@ const data = [
   },
   {
     name: "Jafar",
-    image:
-      "https://static.wikia.nocookie.net/disney/images/6/60/Profile_-_Jafar.jpeg/revision/latest/scale-to-width-down/1000?cb=20190312023726",
+    image: `${process.env.BASE_URL}/resources/disney-villians/Profile_-_Jafar.webp`,
     films: [
       "Aladdin",
       "The Return of Jafar",
@@ -106,8 +99,7 @@ const data = [
   },
   {
     name: "Scar",
-    image:
-      "https://static.wikia.nocookie.net/disney/images/6/66/Profile_-_Scar.jpeg/revision/latest/scale-to-width-down/1000?cb=20190312021344",
+    image: `${process.env.BASE_URL}/resources/disney-villians/Profile_-_Scar.webp`,
     films: [
       "The Lion King",
       "The Lion King II: Simba's Pride",
@@ -120,8 +112,7 @@ const data = [
   },
   {
     name: "Hades",
-    image:
-      "https://static.wikia.nocookie.net/disney/images/2/2c/Profile_-_Hades.jpeg/revision/latest/scale-to-width-down/1000?cb=20190312030411",
+    image: `${process.env.BASE_URL}/resources/disney-villians/Profile_-_Hades.webp`,
     films: [
       "Hercules",
       "Hercules: Zero to Hero",
@@ -136,8 +127,7 @@ const data = [
   },
   {
     name: "Dr. Facilier",
-    image:
-      "https://static.wikia.nocookie.net/disney/images/3/3f/Profile_-_Dr._Facilier.jpeg/revision/latest?cb=20190312024000",
+    image: `${process.env.BASE_URL}/resources/disney-villians/Profile_-_Dr._Facilier.webp`,
     films: ["The Princess and the Frog"],
     year: "2009",
   },
