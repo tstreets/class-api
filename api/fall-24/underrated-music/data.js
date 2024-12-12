@@ -58,7 +58,7 @@ const data = [
   {
     name: "Pixies",
     url: "https://www.pixiesmusic.com/",
-    cover_image: `${process.env.BASE_URL}/resources/underrated-music/album-covers/P.jpg`,
+    cover_image: `${process.env.BASE_URL}/resources/underrated-music/album-covers/Pi.jpg`,
     songs: [
       `${process.env.BASE_URL}/resources/underrated-music/songs/Pixies - Gigantic [HD].mp3`,
       `${process.env.BASE_URL}/resources/underrated-music/songs/Where Is My Mind_ (2007 Remaster).mp3`,
