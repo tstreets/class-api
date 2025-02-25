@@ -15,6 +15,7 @@ process.env.BASE_URL =
     : process.env.BASE_URL;
 
 app.use("/api/fall-24", require("./fall-24"));
+app.use("/api/portfolio", require("./portfolio"));
 
 app.listen(port);
 
